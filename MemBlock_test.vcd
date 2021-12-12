@@ -1,0 +1,67 @@
+$date
+	Wed Oct 06 23:29:44 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Latch $end
+$var wire 1 ! nr $end
+$var wire 1 " ns $end
+$var reg 1 # nq $end
+$var reg 1 $ q $end
+$upscope $end
+$scope module MemBlock_test $end
+$var wire 1 % g $end
+$var wire 1 & f $end
+$var reg 1 ' a $end
+$var reg 1 ( b $end
+$scope module memblock $end
+$var wire 1 ' x $end
+$var wire 1 ( y $end
+$var reg 1 % nq $end
+$var reg 1 & q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0(
+0'
+x&
+x%
+x$
+x#
+z"
+z!
+$end
+#1
+1(
+#2
+0(
+#3
+1%
+0&
+1'
+#4
+0'
+#5
+1'
+#6
+1(
+#7
+0'
+#8
+0%
+1&
+1'
+#9
+0(
+#10
+1(
+#11
+0(
+0'
+#12
